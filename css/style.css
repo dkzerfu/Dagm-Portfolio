@@ -528,3 +528,7 @@ header {
 span {
   color: white;
 }
+embed {
+  height: 90vh;
+  width: 100%;
+}
